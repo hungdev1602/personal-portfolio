@@ -50,7 +50,7 @@ export const PROJECTS = [
     link: "#"
   },
   {
-    title: "Influencer platform - Freelance",
+    title: "Influencer platform - Freelance Project",
     image: project2,
     description:
       "A website for selling video content products, with features for video playback, customer email submission to the admin, and a slider",
