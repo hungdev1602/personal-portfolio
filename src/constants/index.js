@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Hello! I am currently an Intern Frontend Developer. With a passionate enthusiasm for web programming and user interface design, I have dedicated significant time to enhancing my skills in HTML, CSS, JavaScript, as well as advanced frameworks and libraries such as ReactJS and NextJS. I am eager to contribute to your project as an Intern Frontend Developer, where I can apply my knowledge and skills to help create outstanding web products.`;
+export const HERO_CONTENT = `Hello! Welcome to my personal page! I am a third-year student majoring in Information Technology, currently pursuing a career in front-end development. With a passionate dedication to web programming, I have honed my skills in using HTML/CSS, JavaScript, ReactJS, and NextJS.`;
 
 export const ABOUT_TEXT1 = `Welcome to my personal page! I am a third-year student majoring in Information Technology, currently pursuing a career in front-end development. With a passionate dedication to web programming, I have honed my skills in using HTML/CSS, JavaScript, ReactJS, and NextJS.`;
 export const ABOUT_TEXT2 = `My aim is to continue learning, enhancing my skills, and seeking opportunities to work in a professional environment where I can contribute and learn from experienced professionals. I aspire to engage in larger, more complex projects to challenge myself and broaden my vision within the field of information technology.`;
@@ -47,7 +47,7 @@ export const PROJECTS = [
     description:
       "A fully functional online stream music website with features like play-music, search, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Next.Js", "FireBase", "Tailwind"],
-    link: "#"
+    link: "https://music-tech.vercel.app/"
   },
   {
     title: "Influencer platform - Freelance Project",
